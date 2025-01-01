@@ -2,11 +2,11 @@
 3d printed storage caddy for IR remotes 
 
 renders
-![IR_remotes_caddy](https://github.com/Anool/IR_remotes_caddy/blob/main/renders/IR_remotes_caddy_01.png)
+![IR_remotes_caddy](https://github.com/Anool/IR_remotes_caddy/blob/main/render/IR_remotes_caddy_01.png)
 
-![IR_remotes_caddy](https://github.com/Anool/IR_remotes_caddy/blob/main/renders/IR_remotes_caddy_02.png)
+![IR_remotes_caddy](https://github.com/Anool/IR_remotes_caddy/blob/main/render/IR_remotes_caddy_02.png)
 
-![IR_remotes_caddy](https://github.com/Anool/IR_remotes_caddy/blob/main/renders/IR_remotes_caddy_03.png)
+![IR_remotes_caddy](https://github.com/Anool/IR_remotes_caddy/blob/main/render/IR_remotes_caddy_03.png)
 
 
 
